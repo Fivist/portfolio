@@ -11,10 +11,7 @@ buttons:
       tar_title: Title
       tar_hide: true
       github_hide: true # hides "View on Github"
-colors:
-    gradient_left: "#D64045"
-    gradient_right: "#353A47"
-    header: "#fff"
-    android_theme: "#000" # this default to gradient_color
-    link: "#1e6bb8" # this default to gradient_color
-    section_title: "#155799" # this default to gradient_color
+color:
+  header: "#000"
+  gradient_left: "#e53935"
+  gradient_right: "#f57c00"
