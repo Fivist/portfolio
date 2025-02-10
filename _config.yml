@@ -15,3 +15,5 @@ color:
   header: "#FFF"
   gradient_left: "#7D7ABC"
   gradient_right: "#D64045"
+  link: "#1e6bb8"
+  body-text-color: "#000"
