@@ -13,5 +13,5 @@ buttons:
       github_hide: true # hides "View on Github"
 color:
   header: "#FFF"
-  gradient_left: "#D64045"
-  gradient_right: "#7D7ABC"
+  gradient_left: "#7D7ABC"
+  gradient_right: "#D64045"
