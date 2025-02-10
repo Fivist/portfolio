@@ -12,6 +12,6 @@ buttons:
       tar_hide: true
       github_hide: true # hides "View on Github"
 color:
-  header: "#000"
+  header: "#FFF"
   gradient_left: "#456990"
   gradient_right: "#49BEAA"
